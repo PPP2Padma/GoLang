@@ -2,6 +2,4 @@ module myapp
 
 go 1.21
 
-require (
-    ...
-)
+require github.com/gorilla/mux v1.8.0
