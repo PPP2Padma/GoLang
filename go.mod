@@ -1,1 +1,7 @@
-go mod init myapp
+module myapp
+
+go 1.21
+
+require (
+    ...
+)
